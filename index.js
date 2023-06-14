@@ -107,7 +107,7 @@ async function run() {
           app.get('/toy',  async (req, res) => {
                // verifyJWT,
                const decoded = req.decoded;
-               console.log(decoded);
+               // console.log(decoded);
                // console.log(req.headers);
 
                let query = {};
