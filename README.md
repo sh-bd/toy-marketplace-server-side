@@ -1,4 +1,4 @@
-# Chef Recipe Hunter Client
+# Toy Marketplace Client
 This repo is for the server side of Toy Marketplace Website.
 
 ## Preview
