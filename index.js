@@ -22,7 +22,7 @@ const client = new MongoClient(uri, {
      },
 });
 
-
+// cmnt
 // jwt verify start 
 const verifyJWT = (req, res, next) => {
 
