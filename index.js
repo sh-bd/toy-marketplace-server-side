@@ -108,7 +108,7 @@ async function run() {
                // verifyJWT,
                // it is not working when the verifyJWT is given before async, dont know why
                const decoded = req.decoded;
-               console.log(decoded);
+               // console.log(decoded);
                // console.log(req.headers);
 
                let query = {};
