@@ -106,6 +106,7 @@ async function run() {
           // server data get start
           app.get('/toy',  async (req, res) => {
                // verifyJWT,
+               // it is not working when the verifyJWT is given before async, dont know why
                const decoded = req.decoded;
                console.log(decoded);
                // console.log(req.headers);
