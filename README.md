@@ -7,9 +7,9 @@ Client link – [https://marvelous-kashata-09fb13.netlify.app/](https://marvelou
 
 Server link - [https://toy-marketplace-server-side-sh4mim.vercel.app/](https://toy-marketplace-server-side-sh4mim.vercel.app/)
 
-Client repository - [https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-sh-bd)
+Client repository - [https://github.com/sh-bd/toy-marketplace-client-side](https://github.com/sh-bd/toy-marketplace-client-side)
 
-Server repository - [https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-sh-bd)
+Server repository - [https://github.com/sh-bd/toy-marketplace-server-side](https://github.com/sh-bd/toy-marketplace-server-side)
 
 ## Languages and Tools:
 <div align="left">
@@ -26,13 +26,13 @@ Server repository - [https://github.com/programming-hero-web-course-4/b7a11-toy-
 Clone the project
 
 ```bash
-  git clone https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-sh-bd.git
+  git clone https://github.com/sh-bd/toy-marketplace-server-side.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd b7a11-toy-marketplace-server-side-sh-bd
+  cd toy-marketplace-server-side
 ```
 
 Install dependencies
